@@ -10,16 +10,16 @@ description: Training materials for API product owners at adidas
 
 Training materials for API product owners at adidas.
 
-The training is meant to be conducted by an instructor. It is following the "learnign by doing" methodology with big emphasis on students solving new problem for the first time with the coordination from the instrucutor. The lecture is split in modules each module representing different area of responsibilities for a product owner.
+The training is meant to be conducted by an instructor. It is following the "learning by doing" methodology with big emphasis on students solving new problem for the first time with the coordination from the instrucutor. The lecture is split in modules each module representing different area of responsibilities for a product owner.
 
 The actual content of the lecture is in the [student](/student) and [instructor](/instructor) folder. 
 
 **Students are asked to NOT read the instructor materials until after the training.**
 
 
-## Introduction to the training 
+## Training Introduction
 
-Instructor welcome students and prepare an ice breaker: https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games.
+Instructor welcome students and prepare an [ice breaker](https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games).
 
 The instructor then explains the API Transformation initiative in Digital IT and why the practice of API Product ownership is necessary to successfully drive the initiative.
 
