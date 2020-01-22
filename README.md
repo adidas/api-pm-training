@@ -10,13 +10,18 @@ description: Training materials for API product owners at adidas
 
 Training materials for API product owners at adidas.
 
-The training is meant to be conducted 
+The training is meant to be conducted by an instructor. It is following the "learnign by doing" methodology with big emphasis on students solving new problem for the first time with the coordination from the instrucutor. The lecture is split in modules each module representing different area of responsibilities for a product owner.
 
-## Introduction to the training
+The actual content of the lecture is in the [student](/student) and [instructor](/instructor) folder. 
 
-Welcome students and prepare an ice breaker: https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games.
+**Students are asked to NOT read the instructor materials until after the training.**
 
-Explain the API Transformation initiative in Digital IT and why the practice of API Product ownership is necessary to successfully drive the initiative.
+
+## Introduction to the training 
+
+Instructor welcome students and prepare an ice breaker: https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games.
+
+The instructor then explains the API Transformation initiative in Digital IT and why the practice of API Product ownership is necessary to successfully drive the initiative.
 
 ## Dynamics
 
@@ -30,7 +35,7 @@ After all teams have exposed their proposals, facilitators will help the teams t
 
 | DOCUMENTATION                                                                                                                                                                 | SUPPORT                                               | CLIENT DEVELOPMENT TOOLS                                                                    | RUNTIME INSTANCES                                                                     | STRATEGY                                                                                                                                         | DESIGN                                                                                                                                                                             | REPORTING                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| - overview<br>- getting started with use cases<br>- vocabulary <br>- API Contract<br>- non-functional qualities<br>- change log<br>- release notes<br>- versions<br>- roadmap | - Q&A Forum<br>- bug tracking<br>- chat channels, etc | - sample code for copy and paste<br>- SDKs<br>- mock service<br>- postman collections, etc. | - production endpoint<br>- version management<br>- usage analysis<br>- API Management | - vision <br>- roadmap<br>- go-live strategy<br>- user and stakeholder identification<br>- financials<br>- hypothesis driven product development | - API lifecycle<br>- contract first<br>- relationships in the landscape<br>- requirements rationalisation<br>- architecture and style<br>- load/usage estimation<br>- evolvability | - usage<br>- operations<br>- non-functional<br>- user satisfaction<br>- financials |
+| ◦ overview<br>◦ getting started with use cases<br>◦ vocabulary <br>◦ API Contract<br>◦ non-functional qualities<br>◦ change log<br>◦ release notes<br>◦ versions<br>◦ roadmap | ◦ Q&A Forum<br>◦ bug tracking<br>◦ chat channels, etc | ◦ sample code for copy and paste<br>◦ SDKs<br>◦ mock service<br>◦ postman collections, etc. | ◦ production endpoint<br>◦ version management<br>◦ usage analysis<br>◦ API Management | ◦ vision <br>◦ roadmap<br>◦ go-live strategy<br>◦ user and stakeholder identification<br>◦ financials<br>◦ hypothesis driven product development | ◦ API lifecycle<br>◦ contract first<br>◦ relationships in the landscape<br>◦ requirements rationalisation<br>◦ architecture and style<br>◦ load/usage estimation<br>◦ evolvability | ◦ usage<br>◦ operations<br>◦ non-functional<br>◦ user satisfaction<br>◦ financials |
 
 
 ## Questions & Comments
