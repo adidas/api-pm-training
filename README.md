@@ -10,7 +10,7 @@ description: Training materials for API product owners at adidas
 
 Training materials for API product owners at adidas.
 
-The training is meant to be conducted by an instructor. It is following the "learning by doing" methodology with big emphasis on students solving new problem for the first time with the coordination from the instrucutor. The lecture is split in modules each module representing different area of responsibilities for a product owner.
+The training is meant to be facilitated by an instructor. It is following a "learning by doing" methodology with big emphasis on students solving a realistic problem for the first time with the coordination from the instructor. The lecture is split in modules with each module touching upon different areas of responsibilities for an API product owner.
 
 The actual content of the lecture is in the [student](/student) and [instructor](/instructor) folder. 
 
@@ -29,9 +29,9 @@ Students should be grouped in teams of 3 people ideally. At the beginning of eac
 
 Students are expected to have a time-slotted discussion of around 15-20 minutes in which they will decide the actions that should be taken to produce the artefacts. They are not expected to actually produce the artefacts, just a step by step guide explaining how would they do it.
 
-All relevant action points identified by them should be written down in post-its. After 20 minutes the teams would expose how would they proceed to produce the artefacts and what are the key elements to watch out for. No challenging happens at this time, everybody listens.
+All relevant action points identified by them should be written down in post-its. After 20 minutes the teams would expose how would they proceed to produce the artefacts and what are the key elements to watch out for.
 
-After all teams have exposed their proposals, facilitators will help the teams to assign their proposals to one of the seven areas of investment for an API Product:
+After all teams have exposed their proposals, facilitators will open a discussion to challenge each other's approach. Finally, the teams supported by the instructor assign their proposals to one of the seven areas of investment for an API Product:
 
 | DOCUMENTATION                                                                                                                                                                 | SUPPORT                                               | CLIENT DEVELOPMENT TOOLS                                                                    | RUNTIME INSTANCES                                                                     | STRATEGY                                                                                                                                         | DESIGN                                                                                                                                                                             | REPORTING                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
