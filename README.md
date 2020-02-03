@@ -10,28 +10,28 @@ description: Training materials for API product owners at adidas
 
 Training materials for API product owners at adidas.
 
-The training is meant to be conducted by an instructor. It is following the "learning by doing" methodology with big emphasis on students solving new problem for the first time with the coordination from the instrucutor. The lecture is split in modules each module representing different area of responsibilities for a product owner.
+The training is meant to be facilitated by an instructor. It is following a "learning by doing" methodology with big emphasis on students solving a realistic problem for the first time with the facilitation of an instructor. The training is split in modules with each module touching upon different areas of responsibilities for an API product owner.
 
-The actual content of the lecture is in the [student](/student) and [instructor](/instructor) folder. 
+The actual content of the training is in the [student](/student) and [instructor](/instructor) folder. 
 
 **Students are asked to NOT read the instructor materials until after the training.**
 
 
-## Training Introduction
+## How to execute this training
 
-Instructor welcome students and prepare an [ice breaker](https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games).
+The instructor welcome the students and prepares an [ice breaker](https://www.snacknation.com/blog/boost-productivity-meetings-icebreakers-games).
 
-The instructor then explains the API Transformation initiative in Digital IT and why the practice of API Product ownership is necessary to successfully drive the initiative.
+The instructor then explains the API Transformation initiative and why the practice of API Product ownership is necessary to successfully drive the initiative.
 
-## Dynamics
+Students should then be grouped in teams of 3 people ideally. At the beginning of each module they will receive the student "message" which simulates an email from their line manager asking them to produce an artefact.
 
-Students should be grouped in teams of 3 people ideally. At the beginning of each module they will receive the student "message" which simulates an email from their line manager asking them to produce an artefact.
+Each team is expected to have a time-slotted discussion of around 15-20 minutes in which they will decide the actions that should be taken to produce the artefacts. They are not expected to actually produce the artefacts, just a step by step guide explaining how would they do it.
 
-Students are expected to have a time-slotted discussion of around 15-20 minutes in which they will decide the actions that should be taken to produce the artefacts. They are not expected to actually produce the artefacts, just a step by step guide explaining how would they do it.
+All relevant action points identified by them should be written down in post-its. After 20 minutes each team would expose how would they proceed to produce the artefacts and what are the key elements to watch out for.
 
-All relevant action points identified by them should be written down in post-its. After 20 minutes the teams would expose how would they proceed to produce the artefacts and what are the key elements to watch out for. No challenging happens at this time, everybody listens.
+After all teams have exposed their proposals, the instructor will open a discussion to challenge each other's approach. In the instructor section of each module there is a proposal of activities that the instructor can use to contribute to the discussion. Each one of those proposals contributes to one or more "areas of investment" of an API Product. 
 
-After all teams have exposed their proposals, facilitators will help the teams to assign their proposals to one of the seven areas of investment for an API Product:
+During the training or at the end of the training, the teams can assign their proposals to one of the seven areas of investment for an API Product:
 
 | DOCUMENTATION                                                                                                                                                                 | SUPPORT                                               | CLIENT DEVELOPMENT TOOLS                                                                    | RUNTIME INSTANCES                                                                     | STRATEGY                                                                                                                                         | DESIGN                                                                                                                                                                             | REPORTING                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
